@@ -56,3 +56,8 @@ footer a{
 .jumbotron hr{
     background-color: #e3b505;
 }
+
+.carousel .carousel-item {
+    height: 100%;
+    width: auto;
+  }
