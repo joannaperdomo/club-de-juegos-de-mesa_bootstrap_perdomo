@@ -40,6 +40,10 @@ p{
     color: white;
 }
 
+.card p {
+    color: black;
+}
+
 footer{
     font-size: 10px;
 }
