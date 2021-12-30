@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Slab:wght@200;700;900&display=swap');
+
+/* PALETA DE COLORES 
+
+--amarillo: #e3b505;
+--maximum-blue: #53a2be;
+--yale-blue: #044b7f;
+--light-cyan: #d4f5f5;
+--cadet-grey: #8c9a9e;
+
+FONT FAMILY
+
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Slab', serif; */
+
+header{
+    background-color: #e3b505;
+}
+
+body, .bg-primary{
+    background-color: #044b7f;
+}
+
+.btn-primary{
+    background-color: #044b7f;
+    border-color: #044b7f;
+}
+
+.btn-secondary{
+    background-color: #e3b505;
+    color: black;
+}
+
+h2{
+    color: white;
+    font-family: 'Roboto Slab', serif;
+}
+
+p{
+    color: white;
+}
+
+footer{
+    font-size: 10px;
+}
+
+footer a{
+    color: white;
+    text-decoration: underline;
+}
+.jumbotron{
+    background-color: #044b7f;
+    color: white;
+}
+
+.jumbotron hr{
+    background-color: #e3b505;
+}
